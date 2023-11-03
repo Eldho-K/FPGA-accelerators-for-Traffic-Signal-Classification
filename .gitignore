@@ -2,4 +2,6 @@ Python/training/*.npy
 Python/Test
 Python/Train
 Python/Meta
+Test.csv
+*.txt
 
