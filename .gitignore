@@ -6,3 +6,4 @@ Test.csv
 *.txt
 code.py
 *.v
+*.tb
